@@ -1,0 +1,614 @@
+Opportunity_Business_ID,Opportunity_Business_Name,Opportunity_Business_Line_ID,Opportunity_Business_Line_Group_ID,Province
+InVe0001,InfoSolutions,Venture Capital,Investment,Ontario
+GlAn0002,GlobalAnalytics,Analytics,Technology,Ontario
+CrAn0003,CreativeAnalytics,Analytics,Technology,Ontario
+SeVe0004,SecureVentures,Venture Capital,Investment,Ontario
+BiBi0005,BioVentures,Biotechnology,Healthcare,Ontario
+SeLo0006,SecureSolutions,Loans,Finance,Ontario
+WeTr0007,WebConcepts,Treasury,Finance,Ontario
+SeCo0008,SecureTechnology,Compliance,Legal,Ontario
+TeVe0009,TechVentures,Venture Capital,Investment,Ontario
+DaVe0010,DataVentures,Venture Capital,Investment,Ontario
+GeCr0011,GeoSolutions,Credit,Finance,Ontario
+SeCo0012,SecureTechnology,Compliance,Legal,Ontario
+SmTr0013,SmartDynamics,Treasury,Finance,Ontario
+InIn0014,InnovativeSystems,Insurance,Risk Management,Ontario
+NeAn0015,NetAnalytics,Analytics,Technology,Ontario
+SmAn0016,SmartAnalytics,Analytics,Technology,Ontario
+DaCo0017,DataServices,Compliance,Legal,Ontario
+TeMo0018,TechConcepts,Mortgages,Banking,Ontario
+SeLo0019,SecureSolutions,Loans,Finance,Ontario
+SeAs0020,SecureServices,Asset Management,Investment,Ontario
+SmEq0021,SmartSolutions,Equity,Finance,Ontario
+WeTr0022,WebConcepts,Treasury,Finance,Ontario
+SmAn0023,SmartAnalytics,Analytics,Technology,Ontario
+SmAs0024,SmartConcepts,Asset Management,Investment,Ontario
+GeCo0025,GeoTechnology,Compliance,Legal,Ontario
+BiBi0026,BioHoldings,Biotechnology,Healthcare,Ontario
+SeIn0027,SecureConcepts,Insurance,Risk Management,Ontario
+SmTr0028,SmartDynamics,Treasury,Finance,Ontario
+InVe0029,InnovativeVentures,Venture Capital,Investment,Ontario
+InCr0030,InfoTechnology,Credit,Finance,Ontario
+InCo0031,InnovativeConcepts,Compliance,Legal,Ontario
+InM0032,InfoHoldings,Mortgages,Banking,Ontario
+WeWe0033,WebServices,Wealth Management,Investment,Ontario
+DaAn0034,DataAnalytics,Analytics,Technology,Ontario
+SmC0035,SmartSystems,Credit,Finance,Ontario
+DaCo0036,DataDynamics,Compliance,Legal,Ontario
+CrAn0037,CreativeAnalytics,Analytics,Technology,Ontario
+TeVe0038,TechVentures,Venture Capital,Investment,Ontario
+InIn0039,InnovativeServices,Insurance,Risk Management,Ontario
+InCo0040,InnovativeConcepts,Compliance,Legal,Ontario
+WeDe0041,WebTechnology,Deposits,Banking,Ontario
+SeTr0042,SecureHoldings,Treasury,Finance,Ontario
+NeAs0043,NetSolutions,Asset Management,Investment,Ontario
+WeTr0044,WebConcepts,Treasury,Finance,Ontario
+NeEq0045,NetConcepts,Equity,Finance,Ontario
+GlMo0046,GlobalSolutions,Mortgages,Banking,Ontario
+BiBi0047,BioTechnology,Biotechnology,Healthcare,Ontario
+InCr0048,InfoTechnology,Credit,Finance,Ontario
+GeEq0049,GeoDynamics,Equity,Finance,Ontario
+GlCr0050,GlobalConcepts,Credit,Finance,Ontario
+BiAn0051,BioAnalytics,Analytics,Technology,Ontario
+CrCo0052,CreativeDynamics,Compliance,Legal,Ontario
+GlCr0053,GlobalConcepts,Credit,Finance,Ontario
+SmCr0054,SmartServices,Credit,Finance,Ontario
+TeAn0055,TechAnalytics,Analytics,Technology,Quebec
+GlAn0056,GlobalAnalytics,Analytics,Technology,Ontario
+GlCr0057,GlobalSystems,Credit,Finance,Quebec
+DaAn0058,DataAnalytics,Analytics,Technology,Ontario
+TeAn0059,TechAnalytics,Analytics,Technology,Quebec
+CrTr0060,CreativeTechnology,Treasury,Finance,Quebec
+GeTr0061,GeoServices,Treasury,Finance,Quebec
+GlMo0062,GlobalSolutions,Mortgages,Banking,Ontario
+TeDe0063,TechHoldings,Deposits,Banking,Quebec
+InDe0064,InnovativeHoldings,Deposits,Banking,Quebec
+SmCr0065,SmartServices,Credit,Finance,Ontario
+InCr0066,InfoSolutions,Credit,Finance,Ontario
+DaVe0067,DataVentures,Venture Capital,Investment,Ontario
+InAn0068,InfoAnalytics,Analytics,Technology,Quebec
+SeVe0069,SecureVentures,Venture Capital,Investment,Ontario
+CrCo0070,CreativeDynamics,Compliance,Legal,Ontario
+NeAs0071,NetSolutions,Asset Management,Investment,Ontario
+TeAn0072,TechAnalytics,Analytics,Technology,Quebec
+WeTr0073,WebSolutions,Treasury,Finance,Quebec
+CrTr0074,CreativeSystems,Treasury,Finance,Quebec
+CrTr0075,CreativeSystems,Treasury,Finance,Quebec
+NeWe0076,NetHoldings,Wealth Management,Investment,Quebec
+InMo0077,InfoServices,Mortgages,Banking,Quebec
+WeVe0078,WebVentures,Venture Capital,Investment,Quebec
+WeIn0079,WebDynamics,Insurance,Risk Management,Quebec
+InVe0080,InnovativeVentures,Venture Capital,Investment,Ontario
+WeIn0081,WebDynamics,Insurance,Risk Management,Quebec
+TeAn0082,TechAnalytics,Analytics,Technology,Quebec
+GeLo0083,GeoHoldings,Loans,Finance,Quebec
+NeAs0084,NetSolutions,Asset Management,Investment,Ontario
+InVe0085,InnovativeVentures,Venture Capital,Investment,Ontario
+BiBi0086,BioSystems,Biotechnology,Healthcare,Quebec
+CrVe0087,CreativeVentures,Venture Capital,Investment,Quebec
+SmVe0088,SmartVentures,Venture Capital,Investment,Quebec
+GlCo0089,GlobalHoldings,Compliance,Legal,Quebec
+WeTr0090,WebSolutions,Treasury,Finance,Quebec
+BiBi0091,BioVentures,Biotechnology,Healthcare,Ontario
+SmEq0092,SmartSolutions,Equity,Finance,Ontario
+NeVe0093,NetVentures,Venture Capital,Investment,Quebec
+DaAs0094,DataHoldings,Asset Management,Investment,Quebec
+GlLo0095,GlobalServices,Loans,Finance,Quebec
+CrTr0096,CreativeTechnology,Treasury,Finance,Quebec
+GeAn0097,GeoAnalytics,Analytics,Technology,Quebec
+CrCo0098,CreativeDynamics,Compliance,Legal,Ontario
+NeWe0099,NetDynamics,Wealth Management,Investment,Quebec
+NeWe0100,NetHoldings,Wealth Management,Investment,Quebec
+InCr0101,InfoTechnology,Credit,Finance,Ontario
+GeEq0102,GeoDynamics,Equity,Finance,Ontario
+InAs0103,InfoSystems,Asset Management,Investment,British Columbia
+SmAn0104,SmartAnalytics,Analytics,Technology,Ontario
+BiAn0105,BioAnalytics,Analytics,Technology,Ontario
+BiBi0106,BioTechnology,Biotechnology,Healthcare,Ontario
+InIn0107,InfoDynamics,Insurance,Risk Management,British Columbia
+InVe0108,InnovativeVentures,Venture Capital,Investment,Ontario
+InIn0109,InnovativeServices,Insurance,Risk Management,Ontario
+WeVe0110,WebVentures,Venture Capital,Investment,Quebec
+InIn0111,InnovativeServices,Insurance,Risk Management,Ontario
+BiBi0112,BioDynamics,Biotechnology,Healthcare,British Columbia
+GeEq0113,GeoDynamics,Equity,Finance,Ontario
+CrCo0114,CreativeSolutions,Compliance,Legal,British Columbia
+NeAn0115,NetAnalytics,Analytics,Technology,Ontario
+DaCo0116,DataServices,Compliance,Legal,Ontario
+SeCo0117,SecureTechnology,Compliance,Legal,Ontario
+InCr0118,InfoSolutions,Credit,Finance,Ontario
+GlCo0119,GlobalHoldings,Compliance,Legal,Quebec
+DaAn0120,DataAnalytics,Analytics,Technology,Ontario
+BiBi0121,BioServices,Biotechnology,Healthcare,British Columbia
+GeVe0122,GeoVentures,Venture Capital,Investment,British Columbia
+InCr0123,InfoSolutions,Credit,Finance,Ontario
+BiBi0124,BioSystems,Biotechnology,Healthcare,Quebec
+TeTr0125,TechTechnology,Treasury,Finance,British Columbia
+InCo0126,InnovativeConcepts,Compliance,Legal,Ontario
+InVe0127,InnovativeVentures,Venture Capital,Investment,Ontario
+InAs0128,InnovativeTechnology,Asset Management,Investment,British Columbia
+TeTr0129,TechTechnology,Treasury,Finance,British Columbia
+SmVe0130,SmartVentures,Venture Capital,Investment,Quebec
+BiBi0131,BioConcepts,Biotechnology,Healthcare,British Columbia
+InIn0132,InnovativeServices,Insurance,Risk Management,Ontario
+TeTr0133,TechTechnology,Treasury,Finance,British Columbia
+TeMo0134,TechConcepts,Mortgages,Banking,Ontario
+WeIn0135,WebDynamics,Insurance,Risk Management,Quebec
+DaAn0136,DataAnalytics,Analytics,Technology,Ontario
+SeCo0137,SecureDynamics,Compliance,Legal,British Columbia
+TeLo0138,TechSolutions,Loans,Finance,British Columbia
+InAs0139,InnovativeDynamics,Asset Management,Investment,British Columbia
+SeVe0140,SecureVentures,Venture Capital,Investment,Ontario
+InAs0141,InnovativeDynamics,Asset Management,Investment,British Columbia
+SmTr0142,SmartDynamics,Treasury,Finance,Ontario
+SeIn0143,SecureConcepts,Insurance,Risk Management,Ontario
+TeTr0144,TechTechnology,Treasury,Finance,British Columbia
+SeIn0145,SecureConcepts,Insurance,Risk Management,Ontario
+NeWe0146,NetHoldings,Wealth Management,Investment,Quebec
+BiBi0147,BioSolutions,Biotechnology,Healthcare,British Columbia
+CrTr0148,CreativeHoldings,Treasury,Finance,British Columbia
+CrVe0149,CreativeVentures,Venture Capital,Investment,Quebec
+SeVe0150,SecureVentures,Venture Capital,Investment,Ontario
+BiBi0151,BioSystems,Biotechnology,Healthcare,Quebec
+WeCr0152,WebSystems,Credit,Finance,British Columbia
+SmAn0153,SmartAnalytics,Analytics,Technology,Ontario
+GeCr0154,GeoSolutions,Credit,Finance,Ontario
+DaDe0155,DataSystems,Deposits,Banking,British Columbia
+SeIn0156,SecureConcepts,Insurance,Risk Management,Ontario
+SeVe0157,SecureVentures,Venture Capital,Investment,Ontario
+GeLo0158,GeoHoldings,Loans,Finance,Quebec
+SmLo0159,SmartTechnology,Loans,Finance,British Columbia
+InAs0160,InnovativeTechnology,Asset Management,Investment,British Columbia
+InAs0161,InfoSystems,Asset Management,Investment,British Columbia
+SeVe0162,SecureVentures,Venture Capital,Investment,Ontario
+DaCo0163,DataDynamics,Compliance,Legal,Ontario
+DaCo0164,DataDynamics,Compliance,Legal,Ontario
+GlCr0165,GlobalConcepts,Credit,Finance,Ontario
+NeEq0166,NetConcepts,Equity,Finance,Ontario
+InDe0167,InnovativeHoldings,Deposits,Banking,Quebec
+SmVe0168,SmartVentures,Venture Capital,Investment,Quebec
+BiBi0169,BioSolutions,Biotechnology,Healthcare,British Columbia
+GeTr0170,GeoServices,Treasury,Finance,Quebec
+WeCr0171,WebSystems,Credit,Finance,British Columbia
+DaCo0172,DataServices,Compliance,Legal,Ontario
+InEq0173,InfoConcepts,Equity,Finance,British Columbia
+GeCr0174,GeoSolutions,Credit,Finance,Ontario
+GeEq0175,GeoDynamics,Equity,Finance,Ontario
+CrVe0176,CreativeVentures,Venture Capital,Investment,Quebec
+SmCr0177,SmartHoldings,Credit,Finance,British Columbia
+GlAn0178,GlobalAnalytics,Analytics,Technology,Ontario
+TeLo0179,TechSolutions,Loans,Finance,British Columbia
+CrLo0180,CreativeServices,Loans,Finance,British Columbia
+NeWe0181,NetHoldings,Wealth Management,Investment,Quebec
+GeVe0182,GeoVentures,Venture Capital,Investment,British Columbia
+GeVe0183,GeoVentures,Venture Capital,Investment,British Columbia
+WeDe0184,WebTechnology,Deposits,Banking,Ontario
+InCr0185,InfoSolutions,Credit,Finance,Ontario
+NeWe0186,NetHoldings,Wealth Management,Investment,Quebec
+CrAn0187,CreativeAnalytics,Analytics,Technology,Ontario
+InAs0188,InnovativeDynamics,Asset Management,Investment,British Columbia
+CrVe0189,CreativeVentures,Venture Capital,Investment,Quebec
+SmLo0190,SmartTechnology,Loans,Finance,British Columbia
+NeAs0191,NetSolutions,Asset Management,Investment,Ontario
+GlCo0192,GlobalHoldings,Compliance,Legal,Quebec
+NeWe0193,NetHoldings,Wealth Management,Investment,Quebec
+InAs0194,InfoSystems,Asset Management,Investment,British Columbia
+GlCr0195,GlobalConcepts,Credit,Finance,Ontario
+InAn0196,InfoAnalytics,Analytics,Technology,Quebec
+NeWe0197,NetHoldings,Wealth Management,Investment,Quebec
+InIn0198,InnovativeSystems,Insurance,Risk Management,Ontario
+InAs0199,InnovativeTechnology,Asset Management,Investment,British Columbia
+SeAs0200,SecureServices,Asset Management,Investment,Ontario
+CrCo0201,CreativeDynamics,Compliance,Legal,Ontario
+WeIn0202,WebDynamics,Insurance,Risk Management,Quebec
+SeAs0203,SecureServices,Asset Management,Investment,Ontario
+NeWe0204,NetHoldings,Wealth Management,Investment,Quebec
+NeVe0205,NetVentures,Venture Capital,Investment,Quebec
+NeCr0206,NetTechnology,Credit,Finance,British Columbia
+BiBi0207,BioSolutions,Biotechnology,Healthcare,British Columbia
+InCr0208,InfoTechnology,Credit,Finance,Ontario
+SeCo0209,SecureTechnology,Compliance,Legal,Ontario
+SmCr0210,SmartServices,Credit,Finance,Ontario
+BiBi0211,BioConcepts,Biotechnology,Healthcare,British Columbia
+BiAn0212,BioAnalytics,Analytics,Technology,Ontario
+CrCo0213,CreativeSolutions,Compliance,Legal,British Columbia
+GeWe0214,GeoSystems,Wealth Management,Investment,British Columbia
+GeEq0215,GeoDynamics,Equity,Finance,Ontario
+CrVe0216,CreativeVentures,Venture Capital,Investment,Quebec
+WeIn0217,WebDynamics,Insurance,Risk Management,Quebec
+TeTr0218,TechTechnology,Treasury,Finance,British Columbia
+NeAn0219,NetAnalytics,Analytics,Technology,Ontario
+DaWe0220,DataConcepts,Wealth Management,Investment,British Columbia
+NeCr0221,NetTechnology,Credit,Finance,British Columbia
+SmEq0222,SmartSolutions,Equity,Finance,Ontario
+SeEq0223,SecureSystems,Equity,Finance,Prince Edward Island
+GeAn0224,GeoAnalytics,Analytics,Technology,Quebec
+GeAn0225,GeoAnalytics,Analytics,Technology,Quebec
+SmTr0226,SmartDynamics,Treasury,Finance,Ontario
+SmAs0227,SmartConcepts,Asset Management,Investment,Ontario
+DaAs0228,DataHoldings,Asset Management,Investment,Quebec
+DaCo0229,DataServices,Compliance,Legal,Ontario
+DaCo0230,DataDynamics,Compliance,Legal,Ontario
+InAs0231,InnovativeDynamics,Asset Management,Investment,British Columbia
+InDe0232,InnovativeHoldings,Deposits,Banking,Quebec
+GlLo0233,GlobalDynamics,Loans,Finance,Alberta
+CrCo0234,CreativeSolutions,Compliance,Legal,British Columbia
+NeWe0235,NetHoldings,Wealth Management,Investment,Quebec
+CrLo0236,CreativeServices,Loans,Finance,British Columbia
+GlCr0237,GlobalTechnology,Credit,Finance,Northwest Territories
+NeEq0238,NetConcepts,Equity,Finance,Ontario
+SeCo0239,SecureDynamics,Compliance,Legal,British Columbia
+InVe0240,InnovativeVentures,Venture Capital,Investment,Ontario
+InVe0241,InfoVentures,Venture Capital,Investment,Alberta
+CrCo0242,CreativeDynamics,Compliance,Legal,Ontario
+InIn0243,InfoDynamics,Insurance,Risk Management,British Columbia
+GlLo0244,GlobalServices,Loans,Finance,Quebec
+SeAn0245,SecureAnalytics,Analytics,Technology,Alberta
+TeTr0246,TechTechnology,Treasury,Finance,British Columbia
+InCo0247,InnovativeConcepts,Compliance,Legal,Ontario
+NeVe0248,NetVentures,Venture Capital,Investment,Quebec
+BiBi0249,BioVentures,Biotechnology,Healthcare,Ontario
+SeCo0250,SecureTechnology,Compliance,Legal,Ontario
+InAn0251,InfoAnalytics,Analytics,Technology,Quebec
+GeWe0252,GeoSystems,Wealth Management,Investment,British Columbia
+NeLo0253,NetSystems,Loans,Finance,New Brunswick
+DaCo0254,DataServices,Compliance,Legal,Ontario
+GeLo0255,GeoHoldings,Loans,Finance,Quebec
+SmCr0256,SmartServices,Credit,Finance,Ontario
+TeLo0257,TechSolutions,Loans,Finance,British Columbia
+TeWe0258,TechServices,Wealth Management,Investment,Northwest Territories
+BiBi0259,BioDynamics,Biotechnology,Healthcare,British Columbia
+InAs0260,InnovativeDynamics,Asset Management,Investment,British Columbia
+TeWe0261,TechServices,Wealth Management,Investment,Northwest Territories
+BiBi0262,BioSystems,Biotechnology,Healthcare,Quebec
+SeIn0263,SecureConcepts,Insurance,Risk Management,Ontario
+SeCo0264,SecureTechnology,Compliance,Legal,Ontario
+DaAs0265,DataSolutions,Asset Management,Investment,Nunavut
+SeTr0266,SecureHoldings,Treasury,Finance,Ontario
+WeCr0267,WebSystems,Credit,Finance,British Columbia
+GlLo0268,GlobalDynamics,Loans,Finance,Alberta
+NeEq0269,NetConcepts,Equity,Finance,Ontario
+GlMo0270,GlobalSolutions,Mortgages,Banking,Ontario
+CrTr0271,CreativeTechnology,Treasury,Finance,Quebec
+DaLo0272,DataTechnology,Loans,Finance,Manitoba
+DaAn0273,DataAnalytics,Analytics,Technology,Ontario
+InAs0274,InnovativeDynamics,Asset Management,Investment,British Columbia
+GlCr0275,GlobalTechnology,Credit,Finance,Northwest Territories
+GlCr0276,GlobalConcepts,Credit,Finance,Ontario
+NeVe0277,NetVentures,Venture Capital,Investment,Quebec
+GlCo0278,GlobalHoldings,Compliance,Legal,Quebec
+SeIn0279,SecureConcepts,Insurance,Risk Management,Ontario
+SmCr0280,SmartHoldings,Credit,Finance,British Columbia
+DaAn0281,DataAnalytics,Analytics,Technology,Ontario
+SeEq0282,SecureSystems,Equity,Finance,Prince Edward Island
+InCr0283,InnovativeSolutions,Credit,Finance,Newfoundland and Labrador
+DaVe0284,DataVentures,Venture Capital,Investment,Ontario
+InIn0285,InnovativeSystems,Insurance,Risk Management,Ontario
+TeMo0286,TechConcepts,Mortgages,Banking,Ontario
+TeWe0287,TechServices,Wealth Management,Investment,Northwest Territories
+InCr0288,InfoSolutions,Credit,Finance,Ontario
+WeTr0289,WebConcepts,Treasury,Finance,Ontario
+DaWe0290,DataConcepts,Wealth Management,Investment,British Columbia
+InVe0291,InfoVentures,Venture Capital,Investment,Alberta
+InIn0292,InnovativeServices,Insurance,Risk Management,Ontario
+InCo0293,InnovativeConcepts,Compliance,Legal,Ontario
+InAs0294,InnovativeDynamics,Asset Management,Investment,British Columbia
+DaCo0295,DataDynamics,Compliance,Legal,Ontario
+CrAn0296,CreativeAnalytics,Analytics,Technology,Ontario
+InAs0297,InnovativeDynamics,Asset Management,Investment,British Columbia
+WeIn0298,WebDynamics,Insurance,Risk Management,Quebec
+BiBi0299,BioSolutions,Biotechnology,Healthcare,British Columbia
+SeLo0300,SecureSolutions,Loans,Finance,Ontario
+TeAn0301,TechAnalytics,Analytics,Technology,Quebec
+DaCo0302,DataServices,Compliance,Legal,Ontario
+InIn0303,InfoDynamics,Insurance,Risk Management,British Columbia
+CrTr0304,CreativeSystems,Treasury,Finance,Quebec
+GeEq0305,GeoConcepts,Equity,Finance,Prince Edward Island
+InEq0306,InfoConcepts,Equity,Finance,British Columbia
+InEq0307,InfoConcepts,Equity,Finance,British Columbia
+GeVe0308,GeoVentures,Venture Capital,Investment,British Columbia
+CrCo0309,CreativeSolutions,Compliance,Legal,British Columbia
+GlLo0310,GlobalDynamics,Loans,Finance,Alberta
+InVe0311,InnovativeVentures,Venture Capital,Investment,Ontario
+CrVe0312,CreativeVentures,Venture Capital,Investment,Quebec
+WeAn0313,WebAnalytics,Analytics,Technology,Northwest Territories
+CrTr0314,CreativeTechnology,Treasury,Finance,Quebec
+SeAs0315,SecureServices,Asset Management,Investment,Ontario
+InAn0316,InnovativeAnalytics,Analytics,Technology,Nunavut
+GlMo0317,GlobalSolutions,Mortgages,Banking,Ontario
+TeAn0318,TechAnalytics,Analytics,Technology,Quebec
+TeIn0319,TechSystems,Insurance,Risk Management,Yukon
+DaAn0320,DataAnalytics,Analytics,Technology,Ontario
+InAn0321,InfoAnalytics,Analytics,Technology,Quebec
+SeEq0322,SecureSystems,Equity,Finance,Prince Edward Island
+InAn0323,InnovativeAnalytics,Analytics,Technology,Nunavut
+SeEq0324,SecureSystems,Equity,Finance,Prince Edward Island
+GlCr0325,GlobalTechnology,Credit,Finance,Northwest Territories
+GlCr0326,GlobalTechnology,Credit,Finance,Northwest Territories
+InCo0327,InnovativeConcepts,Compliance,Legal,Ontario
+InAs0328,InnovativeTechnology,Asset Management,Investment,British Columbia
+GeVe0329,GeoVentures,Venture Capital,Investment,British Columbia
+WeDe0330,WebTechnology,Deposits,Banking,Ontario
+BiBi0331,BioSolutions,Biotechnology,Healthcare,British Columbia
+BiBi0332,BioDynamics,Biotechnology,Healthcare,British Columbia
+InCo0333,InnovativeConcepts,Compliance,Legal,Ontario
+InVe0334,InnovativeVentures,Venture Capital,Investment,Ontario
+NeAs0335,NetSolutions,Asset Management,Investment,Ontario
+WeIn0336,WebDynamics,Insurance,Risk Management,Quebec
+GeEq0337,GeoConcepts,Equity,Finance,Prince Edward Island
+WeIn0338,WebDynamics,Insurance,Risk Management,Quebec
+TeDe0339,TechDynamics,Deposits,Banking,Yukon
+TeLo0340,TechSolutions,Loans,Finance,British Columbia
+InAs0341,InfoSystems,Asset Management,Investment,British Columbia
+GeLo0342,GeoHoldings,Loans,Finance,Quebec
+NeAn0343,NetAnalytics,Analytics,Technology,Ontario
+GeVe0344,GeoVentures,Venture Capital,Investment,British Columbia
+DaAs0345,DataHoldings,Asset Management,Investment,Quebec
+CrLo0346,CreativeServices,Loans,Finance,British Columbia
+TeWe0347,TechServices,Wealth Management,Investment,Northwest Territories
+WeVe0348,WebVentures,Venture Capital,Investment,Quebec
+WeIn0349,WebHoldings,Insurance,Risk Management,Manitoba
+SeAn0350,SecureAnalytics,Analytics,Technology,Alberta
+SmEq0351,SmartSolutions,Equity,Finance,Ontario
+GeLo0352,GeoHoldings,Loans,Finance,Quebec
+CrTr0353,CreativeHoldings,Treasury,Finance,British Columbia
+GeAn0354,GeoAnalytics,Analytics,Technology,Quebec
+InCr0355,InnovativeSolutions,Credit,Finance,Newfoundland and Labrador
+CrTr0356,CreativeHoldings,Treasury,Finance,British Columbia
+SeVe0357,SecureVentures,Venture Capital,Investment,Ontario
+InEq0358,InfoConcepts,Equity,Finance,British Columbia
+CrTr0359,CreativeHoldings,Treasury,Finance,British Columbia
+WeIn0360,WebHoldings,Insurance,Risk Management,Manitoba
+GeVe0361,GeoVentures,Venture Capital,Investment,British Columbia
+BiBi0362,BioVentures,Biotechnology,Healthcare,Ontario
+InAn0363,InfoAnalytics,Analytics,Technology,Quebec
+TeTr0364,TechTechnology,Treasury,Finance,British Columbia
+SmVe0365,SmartVentures,Venture Capital,Investment,Quebec
+InAs0366,InnovativeDynamics,Asset Management,Investment,British Columbia
+CrAn0367,CreativeAnalytics,Analytics,Technology,Ontario
+GeCo0368,GeoTechnology,Compliance,Legal,Ontario
+GlMo0369,GlobalSolutions,Mortgages,Banking,Ontario
+SeAn0370,SecureAnalytics,Analytics,Technology,Alberta
+InAn0371,InnovativeAnalytics,Analytics,Technology,Nunavut
+GeCr0372,GeoSolutions,Credit,Finance,Ontario
+GeTr0373,GeoServices,Treasury,Finance,Quebec
+NeAs0374,NetSolutions,Asset Management,Investment,Ontario
+GlMo0375,GlobalSolutions,Mortgages,Banking,Ontario
+InCr0376,InfoTechnology,Credit,Finance,Ontario
+DaWe0377,DataConcepts,Wealth Management,Investment,British Columbia
+BiBi0378,BioDynamics,Biotechnology,Healthcare,British Columbia
+NeWe0379,NetHoldings,Wealth Management,Investment,Quebec
+NeAn0380,NetAnalytics,Analytics,Technology,Ontario
+TeIn0381,TechSystems,Insurance,Risk Management,Yukon
+WeIn0382,WebHoldings,Insurance,Risk Management,Manitoba
+BiBi0383,BioSolutions,Biotechnology,Healthcare,British Columbia
+SeAs0384,SecureServices,Asset Management,Investment,Ontario
+SmAn0385,SmartAnalytics,Analytics,Technology,Ontario
+BiBi0386,BioSolutions,Biotechnology,Healthcare,British Columbia
+BiBi0387,BioServices,Biotechnology,Healthcare,British Columbia
+SmLo0388,SmartTechnology,Loans,Finance,British Columbia
+BiBi0389,BioSystems,Biotechnology,Healthcare,Quebec
+TeVe0390,TechVentures,Venture Capital,Investment,Ontario
+SmVe0391,SmartVentures,Venture Capital,Investment,Quebec
+WeAn0392,WebAnalytics,Analytics,Technology,Northwest Territories
+SmCr0393,SmartHoldings,Credit,Finance,British Columbia
+SeCo0394,SecureDynamics,Compliance,Legal,British Columbia
+BiBi0395,BioTechnology,Biotechnology,Healthcare,Ontario
+BiBi0396,BioVentures,Biotechnology,Healthcare,Ontario
+DaAs0397,DataHoldings,Asset Management,Investment,Quebec
+CrLo0398,CreativeServices,Loans,Finance,British Columbia
+InCr0399,InnovativeSolutions,Credit,Finance,Newfoundland and Labrador
+InCr0400,InfoSolutions,Credit,Finance,Ontario
+DaWe0401,DataConcepts,Wealth Management,Investment,British Columbia
+CrAn0402,CreativeAnalytics,Analytics,Technology,Ontario
+NeWe0403,NetDynamics,Wealth Management,Investment,Quebec
+TeDe0404,TechDynamics,Deposits,Banking,Yukon
+CrCo0405,CreativeDynamics,Compliance,Legal,Ontario
+BiBi0406,BioConcepts,Biotechnology,Healthcare,British Columbia
+InVe0407,InnovativeVentures,Venture Capital,Investment,Ontario
+BiBi0408,BioConcepts,Biotechnology,Healthcare,British Columbia
+InAs0409,InnovativeTechnology,Asset Management,Investment,British Columbia
+SmTr0410,SmartDynamics,Treasury,Finance,Ontario
+GeAn0411,GeoAnalytics,Analytics,Technology,Quebec
+CrVe0412,CreativeVentures,Venture Capital,Investment,Quebec
+GeLo0413,GeoHoldings,Loans,Finance,Quebec
+GeWe0414,GeoSystems,Wealth Management,Investment,British Columbia
+InAn0415,InfoAnalytics,Analytics,Technology,Quebec
+SeTr0416,SecureHoldings,Treasury,Finance,Ontario
+NeEq0417,NetServices,Equity,Finance,Northwest Territories
+InAs0418,InnovativeTechnology,Asset Management,Investment,British Columbia
+TeAn0419,TechAnalytics,Analytics,Technology,Quebec
+TeTr0420,TechTechnology,Treasury,Finance,British Columbia
+TeDe0421,TechHoldings,Deposits,Banking,Quebec
+DaDe0422,DataSystems,Deposits,Banking,British Columbia
+InAs0423,InnovativeTechnology,Asset Management,Investment,British Columbia
+GlCr0424,GlobalSystems,Credit,Finance,Quebec
+NeEq0425,NetServices,Equity,Finance,Northwest Territories
+DaCo0426,DataDynamics,Compliance,Legal,Ontario
+NeWe0427,NetDynamics,Wealth Management,Investment,Quebec
+TeIn0428,TechSystems,Insurance,Risk Management,Yukon
+SeAn0429,SecureAnalytics,Analytics,Technology,Alberta
+GeVe0430,GeoVentures,Venture Capital,Investment,British Columbia
+InDe0431,InnovativeHoldings,Deposits,Banking,Quebec
+BiBi0432,BioTechnology,Biotechnology,Healthcare,Ontario
+WeTr0433,WebSolutions,Treasury,Finance,Quebec
+CrLo0434,CreativeServices,Loans,Finance,British Columbia
+SeAs0435,SecureServices,Asset Management,Investment,Ontario
+SmLo0436,SmartTechnology,Loans,Finance,British Columbia
+WeWe0437,WebServices,Wealth Management,Investment,Ontario
+CrAn0438,CreativeAnalytics,Analytics,Technology,Ontario
+InMo0439,InfoServices,Mortgages,Banking,Quebec
+SeEq0440,SecureSystems,Equity,Finance,Prince Edward Island
+DaLo0441,DataTechnology,Loans,Finance,Manitoba
+DaVe0442,DataVentures,Venture Capital,Investment,Ontario
+SmEq0443,SmartSolutions,Equity,Finance,Ontario
+SmEq0444,SmartSolutions,Equity,Finance,Ontario
+SeCo0445,SecureTechnology,Compliance,Legal,Ontario
+InVe0446,InfoVentures,Venture Capital,Investment,Alberta
+CrAn0447,CreativeAnalytics,Analytics,Technology,Ontario
+GlCr0448,GlobalTechnology,Credit,Finance,Northwest Territories
+WeCr0449,WebSystems,Credit,Finance,British Columbia
+InEq0450,InfoConcepts,Equity,Finance,British Columbia
+GeCr0451,GeoSolutions,Credit,Finance,Ontario
+DaCo0452,DataDynamics,Compliance,Legal,Ontario
+NeAn0453,NetAnalytics,Analytics,Technology,Ontario
+InVe0454,InnovativeVentures,Venture Capital,Investment,Ontario
+GlAn0455,GlobalAnalytics,Analytics,Technology,Ontario
+TeDe0456,TechDynamics,Deposits,Banking,Yukon
+WeDe0457,WebTechnology,Deposits,Banking,Ontario
+InCr0458,InnovativeSolutions,Credit,Finance,Newfoundland and Labrador
+InAs0459,InfoSystems,Asset Management,Investment,British Columbia
+InAs0460,InnovativeDynamics,Asset Management,Investment,British Columbia
+SmTr0461,SmartDynamics,Treasury,Finance,Ontario
+DaDe0462,DataSystems,Deposits,Banking,British Columbia
+DaAs0463,DataHoldings,Asset Management,Investment,Quebec
+WeWe0464,WebServices,Wealth Management,Investment,Ontario
+GeEq0465,GeoDynamics,Equity,Finance,Ontario
+WeVe0466,WebVentures,Venture Capital,Investment,Quebec
+SeAn0467,SecureAnalytics,Analytics,Technology,Alberta
+InVe0468,InfoVentures,Venture Capital,Investment,Alberta
+InVe0469,InfoVentures,Venture Capital,Investment,Alberta
+SeAn0470,SecureAnalytics,Analytics,Technology,Alberta
+WeIn0471,WebDynamics,Insurance,Risk Management,Quebec
+BiBi0472,BioTechnology,Biotechnology,Healthcare,Ontario
+SeCo0473,SecureTechnology,Compliance,Legal,Ontario
+InCr0474,InnovativeSolutions,Credit,Finance,Newfoundland and Labrador
+NeCr0475,NetTechnology,Credit,Finance,British Columbia
+BiAn0476,BioAnalytics,Analytics,Technology,Ontario
+WeCr0477,WebSystems,Credit,Finance,British Columbia
+SmCr0478,SmartServices,Credit,Finance,Ontario
+NeCr0479,NetTechnology,Credit,Finance,British Columbia
+GlAn0480,GlobalAnalytics,Analytics,Technology,Ontario
+GeAn0481,GeoAnalytics,Analytics,Technology,Quebec
+NeAs0482,NetSolutions,Asset Management,Investment,Ontario
+SmLo0483,SmartTechnology,Loans,Finance,British Columbia
+GlLo0484,GlobalServices,Loans,Finance,Quebec
+DaWe0485,DataConcepts,Wealth Management,Investment,British Columbia
+NeWe0486,NetDynamics,Wealth Management,Investment,Quebec
+InCr0487,InfoSolutions,Credit,Finance,Ontario
+GeTr0488,GeoServices,Treasury,Finance,Quebec
+DaAs0489,DataSolutions,Asset Management,Investment,Nunavut
+DaVe0490,DataVentures,Venture Capital,Investment,Ontario
+BiAn0491,BioAnalytics,Analytics,Technology,Ontario
+GeEq0492,GeoDynamics,Equity,Finance,Ontario
+WeDe0493,WebTechnology,Deposits,Banking,Ontario
+InEq0494,InfoConcepts,Equity,Finance,British Columbia
+CrC0495,CreativeConcepts,Compliance,Legal,Nunavut
+GlCr0496,GlobalSystems,Credit,Finance,Quebec
+SeVe0497,SecureVentures,Venture Capital,Investment,Ontario
+GlCr0498,GlobalSystems,Credit,Finance,Quebec
+GlAn0499,GlobalAnalytics,Analytics,Technology,Ontario
+WeIn0500,WebDynamics,Insurance,Risk Management,Quebec
+GlAn0501,GlobalAnalytics,Analytics,Technology,Ontario
+DaCo0502,DataServices,Compliance,Legal,Ontario
+GeTr0503,GeoServices,Treasury,Finance,Quebec
+TeLo0504,TechSolutions,Loans,Finance,British Columbia
+InEq0505,InfoConcepts,Equity,Finance,British Columbia
+SmCr0506,SmartServices,Credit,Finance,Ontario
+WeDe0507,WebTechnology,Deposits,Banking,Ontario
+SmLo0508,SmartTechnology,Loans,Finance,British Columbia
+WeIn0509,WebHoldings,Insurance,Risk Management,Manitoba
+GlVe0510,GlobalVentures,Venture Capital,Investment,Alberta
+InEq0511,InfoConcepts,Equity,Finance,British Columbia
+SmAs0512,SmartConcepts,Asset Management,Investment,Ontario
+DaAs0513,DataSolutions,Asset Management,Investment,Nunavut
+WeIn0514,WebHoldings,Insurance,Risk Management,Manitoba
+GeEq0515,GeoDynamics,Equity,Finance,Ontario
+TeVe0516,TechVentures,Venture Capital,Investment,Ontario
+SmVe0517,SmartVentures,Venture Capital,Investment,Quebec
+TeMo0518,TechConcepts,Mortgages,Banking,Ontario
+BiBi0519,BioServices,Biotechnology,Healthcare,British Columbia
+SeTr0520,SecureHoldings,Treasury,Finance,Ontario
+CrTr0521,CreativeSystems,Treasury,Finance,Quebec
+TeWe0522,TechServices,Wealth Management,Investment,Northwest Territories
+DaVe0523,DataVentures,Venture Capital,Investment,Ontario
+BiBi0524,BioVentures,Biotechnology,Healthcare,Ontario
+GlCr0525,GlobalTechnology,Credit,Finance,Northwest Territories
+SmTr0526,SmartDynamics,Treasury,Finance,Ontario
+CrCo0527,CreativeDynamics,Compliance,Legal,Ontario
+InIn0528,InnovativeServices,Insurance,Risk Management,Ontario
+NeEq0529,NetConcepts,Equity,Finance,Ontario
+SmAn0530,SmartAnalytics,Analytics,Technology,Ontario
+InVe0531,InfoVentures,Venture Capital,Investment,Alberta
+BiBi0532,BioServices,Biotechnology,Healthcare,British Columbia
+BiBi0533,BioDynamics,Biotechnology,Healthcare,British Columbia
+SmAs0534,SmartConcepts,Asset Management,Investment,Ontario
+GeCo0535,GeoTechnology,Compliance,Legal,Ontario
+WeTr0536,WebConcepts,Treasury,Finance,Ontario
+GlCo0537,GlobalHoldings,Compliance,Legal,Quebec
+GeTr0538,GeoServices,Treasury,Finance,Quebec
+InDe0539,InnovativeHoldings,Deposits,Banking,Quebec
+InEq0540,InfoConcepts,Equity,Finance,British Columbia
+CrLo0541,CreativeServices,Loans,Finance,British Columbia
+GeAn0542,GeoAnalytics,Analytics,Technology,Quebec
+GlCr0543,GlobalConcepts,Credit,Finance,Ontario
+GeAn0544,GeoAnalytics,Analytics,Technology,Quebec
+InCr0545,InnovativeSolutions,Credit,Finance,Newfoundland and Labrador
+InCr0546,InnovativeSolutions,Credit,Finance,Newfoundland and Labrador
+DaWe0547,DataConcepts,Wealth Management,Investment,British Columbia
+DaVe0548,DataVentures,Venture Capital,Investment,Ontario
+SeIn0549,SecureConcepts,Insurance,Risk Management,Ontario
+GeWe0550,GeoSystems,Wealth Management,Investment,British Columbia
+WeAn0551,WebAnalytics,Analytics,Technology,Northwest Territories
+BiBi0552,BioTechnology,Biotechnology,Healthcare,Ontario
+DaVe0553,DataVentures,Venture Capital,Investment,Ontario
+TeMo0554,TechConcepts,Mortgages,Banking,Ontario
+TeLo0555,TechSolutions,Loans,Finance,British Columbia
+SeVe0556,SecureVentures,Venture Capital,Investment,Ontario
+NeAs0557,NetSolutions,Asset Management,Investment,Ontario
+CrAn0558,CreativeAnalytics,Analytics,Technology,Ontario
+CrTr0559,CreativeSystems,Treasury,Finance,Quebec
+WeIn0560,WebHoldings,Insurance,Risk Management,Manitoba
+NeWe0561,NetDynamics,Wealth Management,Investment,Quebec
+BiAn0562,BioAnalytics,Analytics,Technology,Ontario
+BiBi0563,BioDynamics,Biotechnology,Healthcare,British Columbia
+CrAn0564,CreativeAnalytics,Analytics,Technology,Ontario
+CrLo0565,CreativeServices,Loans,Finance,British Columbia
+NeWe0566,NetHoldings,Wealth Management,Investment,Quebec
+WeIn0567,WebHoldings,Insurance,Risk Management,Manitoba
+InIn0568,InfoDynamics,Insurance,Risk Management,British Columbia
+SmTr0569,SmartDynamics,Treasury,Finance,Ontario
+CrCo0570,CreativeSolutions,Compliance,Legal,British Columbia
+InMo0571,InfoServices,Mortgages,Banking,Quebec
+InAs0572,InnovativeDynamics,Asset Management,Investment,British Columbia
+NeLo0573,NetSystems,Loans,Finance,New Brunswick
+InVe0574,InfoVentures,Venture Capital,Investment,Alberta
+NeLo0575,NetSystems,Loans,Finance,New Brunswick
+GlVe0576,GlobalVentures,Venture Capital,Investment,Alberta
+DaDe0577,DataSystems,Deposits,Banking,British Columbia
+BiBi0578,BioSystems,Biotechnology,Healthcare,Quebec
+CrTr0579,CreativeSystems,Treasury,Finance,Quebec
+GeWe0580,GeoSystems,Wealth Management,Investment,British Columbia
+SmAs0581,SmartConcepts,Asset Management,Investment,Ontario
+GlCr0582,GlobalTechnology,Credit,Finance,Northwest Territories
+TeAn0583,TechAnalytics,Analytics,Technology,Quebec
+CrCo0584,CreativeDynamics,Compliance,Legal,Ontario
+GeAn0585,GeoAnalytics,Analytics,Technology,Quebec
+CrLo0586,CreativeServices,Loans,Finance,British Columbia
+TeWe0587,TechServices,Wealth Management,Investment,Northwest Territories
+InCr0588,InfoSolutions,Credit,Finance,Ontario
+GlAn0589,GlobalAnalytics,Analytics,Technology,Ontario
+InVe0590,InnovativeVentures,Venture Capital,Investment,Ontario
+CrAn0591,CreativeAnalytics,Analytics,Technology,Ontario
+InAs0592,InnovativeDynamics,Asset Management,Investment,British Columbia
+GeCo0593,GeoTechnology,Compliance,Legal,Ontario
+GlCr0594,GlobalConcepts,Credit,Finance,Ontario
+DaCo0595,DataServices,Compliance,Legal,Ontario
+GlCr0596,GlobalSystems,Credit,Finance,Quebec
+BiBi0597,BioSystems,Biotechnology,Healthcare,Quebec
+SmAs0598,SmartConcepts,Asset Management,Investment,Ontario
+CrTr0599,CreativeTechnology,Treasury,Finance,Quebec
+WeWe0600,WebServices,Wealth Management,Investment,Ontario
+SeLo0601,SecureSolutions,Loans,Finance,Ontario
+TeDe0602,TechHoldings,Deposits,Banking,Quebec
+WeTr0603,WebConcepts,Treasury,Finance,Ontario
+InEq0604,InfoConcepts,Equity,Finance,British Columbia
+SeAn0605,SecureAnalytics,Analytics,Technology,Alberta
+NeEq0606,NetConcepts,Equity,Finance,Ontario
+WeWe0607,WebServices,Wealth Management,Investment,Ontario
+SeAs0608,SecureServices,Asset Management,Investment,Ontario
+WeIn0609,WebHoldings,Insurance,Risk Management,Manitoba
+SeCo0610,SecureDynamics,Compliance,Legal,British Columbia
+InIn0611,InfoDynamics,Insurance,Risk Management,British Columbia
+GeCr0612,GeoSolutions,Credit,Finance,Ontario
+NeVe0613,NetVentures,Venture Capital,Investment,Quebec
